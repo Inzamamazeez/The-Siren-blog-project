@@ -1,5 +1,4 @@
 # The-Siren-blog-project
-The Siren Blog
 The Siren Blog is a web application built with React that allows users to explore and read articles related to various topics such as Bollywood, technology, Hollywood, fitness, and food. It utilizes the React Router DOM library for navigation between different sections of the blog.
 
 # Features
